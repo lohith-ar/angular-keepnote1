@@ -7,5 +7,5 @@ import { NotesService } from '../notes.service';
   styleUrls: ['./header.component.css']
 })
 export class HeaderComponent {
-  title = 'Keep';
+  title1 = 'Keep';
 }
